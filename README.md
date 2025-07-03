@@ -1,7 +1,7 @@
 
 # SCT_WD_Task-01 – Responsive Landing Page
 
-This repository contains my submission for *Task 2* of the *Web Development Track* at *Skillcraft Technology*.
+This repository contains my submission for *Task 1* of the *Web Development Track* at *Skillcraft Technology*.
 
 > Developed using *Visual Studio Code (VS Code)* with standard web technologies: HTML, CSS, and JavaScript.
 
